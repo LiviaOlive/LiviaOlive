@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Lívia Oliveira</h1>
+<div align="center">
+    <a href="https://www.linkedin.com/in/ana-livia-oliveiraa" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25"/>
+    </a>
+  </div>
 
-<!--
-**LiviaOlive/LiviaOlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Matemática Computacional 
+💻 Aprendendo: JavaScript, Java, Python 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias
+- **Linguagens:** JavaScript, Python, Java
+- **Ferramentas:** Git, VSCode, Postman
+
