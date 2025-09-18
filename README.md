@@ -6,7 +6,7 @@
   </div>
 
 ### 👩‍💻 Sobre mim
-- 🌱 Atualmente aprendendo **JavaScript, Java, Python e Git**  
+- 🌱 Atualmente aprendendo **JavaScript, Java e Python**  
 - 🎓 Cursando **Matemática Computacional**  
 - 🎯 Objetivo: atuar na área de **desenvolvimento de software**  
 
