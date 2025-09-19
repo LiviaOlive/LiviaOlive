@@ -15,7 +15,7 @@
 ### 👩‍💻 Sobre mim
 Sou uma entusiasta da tecnologia e estudante de **Matemática Computacional**. Minha paixão é aplicar meu conhecimento no universo do **desenvolvimento de software**, transformando desafios complexos em soluções eficientes e elegantes.
 
-Atualmente, estou focada em expandir meu conjunto de habilidades e estou aprendendo:
+Atualmente, estou aprendendo:
 
 -   🐍 **Python**
 -   ☕ **Java**
@@ -42,6 +42,8 @@ Atualmente, estou focada em expandir meu conjunto de habilidades e estou aprende
 ### 📊 Estatísticas do GitHub
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiviaOlive&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <br>
+    <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaOlive&layout=compact&langs_count=7&theme=radical"/>
   </div>
 
