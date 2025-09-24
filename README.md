@@ -39,13 +39,22 @@ Atualmente, estou aprendendo:
 </div>
 
 ---
-### 📊 Estatísticas do GitHub
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiviaOlive&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <br>
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaOlive&layout=compact&langs_count=7&theme=radical"/>
-  </div>
+### 📊 Estatísticas
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=LiviaOlive&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaOlive&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 
 
