@@ -13,7 +13,7 @@
 
 
 ### 👩‍💻 Sobre mim
-Sou uma entusiasta da tecnologia e estudante de **Matemática Computacional**. Minha paixão é aplicar meu conhecimento no universo do **desenvolvimento de software**, transformando desafios complexos em soluções eficientes e elegantes.
+Sou uma entusiasta da tecnologia e estudante de **Matemática Computacional** na **Universidade Federal do Cariri**. Minha paixão é aplicar meu conhecimento no universo do **desenvolvimento de software**, transformando desafios complexos em soluções eficientes e elegantes.
 
 Atualmente, estou aprendendo:
 
