@@ -56,5 +56,8 @@ Atualmente, estou aprendendo:
   />
 </p>
 
+---
+![snake gif](https://github.com/LiviaOlive/LiviaOlive/blob/output/github-snake-dark.svg)
+
 
 
