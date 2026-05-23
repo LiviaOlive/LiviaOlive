@@ -48,7 +48,7 @@ Atualmente, estou aprendendo:
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=LiviaOlive&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
+   src="https://github-readme-stats-cyan-kappa-28.vercel.app/api?username=LiviaOlive&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
   />
 </p>
 
@@ -56,7 +56,7 @@ Atualmente, estou aprendendo:
   <img 
     alt="Top Langs"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaOlive&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-cyan-kappa-28.vercel.app/api/top-langs/?username=LiviaOlive&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
