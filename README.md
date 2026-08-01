@@ -9,14 +9,12 @@
 
 </div>
 
-**`Full-Stack Developer in Training`**
+**`Desenvolvedora Full-Stack em Formação`**
 
-Olá! Bem-vindo(a) ao meu GitHub. 🚀
+### 👩‍💻 Sobre mim
+🎓 Estudante de **Ciência da Computação**
 
-<br>
-🎓 Graduanda em <strong>Ciência da Computação</strong>
-
-💡Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas
+💡 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas
 
 ---
 
@@ -25,6 +23,7 @@ Olá! Bem-vindo(a) ao meu GitHub. 🚀
 **Linguagens de Programação & Front-end**
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -44,8 +43,6 @@ Olá! Bem-vindo(a) ao meu GitHub. 🚀
 </div>
 
 ---
-
-
 ### 📊 Estatísticas
 <p align="center">
   <img 
