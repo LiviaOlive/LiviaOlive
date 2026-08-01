@@ -14,7 +14,7 @@
 Olá! Bem-vindo(a) ao meu GitHub. 🚀
 
 <br>
-🎓 Graduanda em **Ciência da Computação**
+🎓 Graduanda em <strong>Ciência da Computação</strong>
 
 💡Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas
 
