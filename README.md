@@ -9,8 +9,16 @@
 
 </div>
 
-**`Full-Stack Developer in Training | Computer Science Student`**
+**`Full-Stack Developer in Training`**
 
+Olá! Bem-vindo(a) ao meu GitHub. 🚀
+
+<br>
+🎓 Graduanda em **Ciência da Computação**
+
+💡Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas
+
+---
 
 ### 🛠️ Habilidades & Ferramentas
 
