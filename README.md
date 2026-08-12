@@ -12,7 +12,7 @@
 **`Desenvolvedora Full-Stack em Formação`**
 
 ### 👩‍💻 Sobre mim
-🎓 Estudante de **Ciência da Computação**
+🎓 Estudante de **Ciência da Computação** na **Universidade Federal do Cariri (UFCA)**
 
 💡 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas
 
