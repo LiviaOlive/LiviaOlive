@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&height=25)](https://www.linkedin.com/in/ana-livia-oliveiraa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-livia-oliveiraa)
 
 </div>
 
